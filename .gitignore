@@ -1,0 +1,27 @@
+# Build output
+target/
+*.jar
+*.war
+*.class
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+
+# Logs / JVM crash dumps
+*.log
+hs_err_pid*.log
+replay_pid*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Maven wrapper download cache
+.mvn/wrapper/maven-wrapper.jar
